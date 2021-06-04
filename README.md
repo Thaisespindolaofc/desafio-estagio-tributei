@@ -12,7 +12,7 @@
 
 
 ## ROTAS
-1 - Rota para listar os posts com a quantidade total de comentários e um array com todos os comentários de cada post: (GET) `http://localhost:3000/posts`.
-2 - Rota para criar um post: (POST) `http://localhost:3000/posts`.
-3 - Rota para listar todos os comentários de um post específico: (GET) `http://localhost:3000//posts/:post_id/comments`.
-4 - Rota para criar um comentário para um post específico: (POST) `http://localhost:3000//posts/:post_id/comments`.
+- Rota para listar os posts com a quantidade total de comentários e um array com todos os comentários de cada post: (GET) `http://localhost:3000/posts`.
+- Rota para criar um post: (POST) `http://localhost:3000/posts`.
+- Rota para listar todos os comentários de um post específico: (GET) `http://localhost:3000//posts/:post_id/comments`.
+- Rota para criar um comentário para um post específico: (POST) `http://localhost:3000//posts/:post_id/comments`.
